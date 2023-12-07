@@ -25,7 +25,7 @@ The code requires the following libraries:
 
 The `visualize_clusters_pop` function helps visualize the population of each cluster, providing an understanding of the distribution of documents across different clusters.
 
-![image](https://github.com/aj225patel/Big-Data-Processing_Parallelize-K-means/assets/63455759/a1643a8e-cac6-4476-bb2a-6e58769ee372)
+![288823828-a1643a8e-cac6-4476-bb2a-6e58769ee372](https://github.com/aj225patel/Big-Data-Processing_Parallelize-K-means/assets/63455759/770e7114-024a-4db3-a3e5-ca31858c2ef1)
 
 ### Filtering
 
